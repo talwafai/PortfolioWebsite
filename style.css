@@ -1,0 +1,135 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #FFFFFF;
+  margin:0;
+  padding:0;
+}
+
+.container{
+  width: 90%;
+  margin:auto;
+  overflow: hidden;
+}
+
+.LastContainer{
+  width: 90%;
+  margin:auto;
+  overflow: hidden;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+/*HEADER*/
+header{
+  background:#FF7373;
+  color:#ffffff;
+  padding-top: 30px;
+  min-height: 70px;
+  margin-left: 0;
+}
+
+header #TopBarTitle{
+  float:left;
+  color: #99ffff;
+}
+
+header #TopBarTitle h1{
+  margin: 0;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+header li{
+  float: left;
+  display: inline;
+  padding: 0 25px 0 25px;
+  font-size: 17px;
+}
+
+header nav{
+  margin-top: 10px;
+  margin-bottom: 5px;
+  float:right;
+}
+
+/*Numbers! the segments that make up the body of the website*/
+#numbers img{
+  width: 160px;
+  float: left;
+}
+
+#numbers img{
+  width: 160px;
+  float left;
+  margin-right: 20px;
+}
+
+#numbers p{
+//  padding-left: 70px;
+//  margin-left: 100px;
+  padding-right: 0;
+  font-size: 17px;
+//  text-align:justify;
+}
+
+#numbers h1{
+  font: Tahoma;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 0px;
+  margin-left: 20px;
+  margin-bottom: 0px;
+  text-align: left;
+  text-decoration: underline;
+}
+
+#numbers h2{
+  font-size: 10px;
+  padding-top: 0px;
+  padding-left: 150px;
+  padding-right: 150px;
+  margin-left: 20px;
+  text-align: left;
+  font-weight: bold;
+}
+
+/* the real p
+#numbers p{
+  padding-left: 70px;
+  margin-left: 100px;
+  padding-right: 0;
+  font-size: 17px;
+  text-align:justify;
+}
+*/
+
+#numbers .ToWatch{
+  //position: absolute;
+  //bottom:0;
+}
+
+#numbers .container{
+  padding-bottom: 20px;
+  border-bottom: #99ffff solid;
+}
+
+#numbers a{
+  text-decoration: none;
+}
+
+
+#numbers .LastContainer{
+  padding-bottom: 20px;
+}
+
+/*Footer*/
+footer{
+  background:#FF7373;
+  color:#ffffff;
+  text-align: center;
+  margin-top: 10px;
+  padding: 20px;
+}
