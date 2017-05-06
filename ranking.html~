@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Website for people to rank popculture">
+    <title> TopKek </title>
+    <link rel = "stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="TopBarTitle">
+          <h1>TopKek</h1>
+        </div>
+          <nav>
+            <ul>
+              <li>television</li>
+              <li>Movies</li>
+              <li>Games</li>
+            </ul>
+          </nav>
+        </div>
+    </header>
+
+
+
+    <section id="numbers">
+      <div class="container">
+        <div id ="SavingPrivateRyan">
+          <img src="Saving-Private-Ryan-movie-poster.jpg">
+          <h1>Saving Private Ryan</h1>
+          <h2>Director: Stephen Spilberg</h2>
+          <h2>Release Date: July 24th, 1998</h2>
+          <h2>Staring: Vin Diesel, Tom Hanks, Tom Sizemore</h2>
+          <p>
+          	Not just another great action movie, Saving Private Ryan is often regarded as the
+          	essential World War II movie. The movie manages to bring the viewer as close to the action
+          	as possible and make it feel so real without needing the viewer to have
+          	actually seen or experienced these monumentus events. The opening D-Day sequence is the
+          	pinnacle of this, showing not only bombastic action and strong moments of hereoism and leadership,
+          	but also showing the brutality of the war with numerous gruesume deaths and dismemberment. The movie
+          	keeps this tone all the way to the end and portrays our portagonists as soldiers trying to complete their
+          	mission and maintain as few casualties as possible rather than as larger than life heros. On top of this,
+          	all the scenes of the actual war are portrayed as a flashback of a veteran visting fallen comrades at
+          	a cemetary, once again showing the reality and cost of war. Overall, this movie is my favorite World War II
+          	flick due to its strict portrayol of reality and well directed, well acted, action sequences.
+          </p>
+          <div class="ToWatch">
+            <p> trailer <a href="https://www.youtube.com/watch?v=zwhP5b4tD6g&ab_channel=thecultbox">
+              HERE </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div id ="American Beauty">
+          <img src="AmericanBeauty.jpg">
+          <h1>American Beauty</h1>
+          <h2>Director: Stephen Spilberg</h2>
+          <h2> Release Date: October 1st, 1999</h2>
+          <h2>Staring: Kevin Spacey, Thora Birch, Wes Bently</h2>
+          <p> This one ended up being a pleasent suprise for me, saying as I had never heard of the movie
+          	until I watched it. In short, the movie is about several characters who fight the constructs
+          	that either themselves or society has put them in.  The characters all go through a similar
+          	transition even though they vary significantly. From middle-age man trying to add more joy into
+          	his life, to a strict conservative veteran coping with homosexual feelings, to an angsty teenager
+          	trying to find her way in the world. The most notable character though is Ricky Fitts, a high
+          	school teenager who is looked down upon in the begining for not conforming to normal social constructs but in reality,
+          	Ricky is the only one who is truely happy and at peace with who he is which is what everyone else is seeking.
+          	 </p>
+          <div class="ToWatch">
+            <p> Found on: <a href="http://play.hbogo.com/series?reentered=true">HBO</a>
+                <a href="http://www.sho.com/">Showtime</a>
+                <a href="https://www.amazon.com/Amazon-Video/b?node=2858778011"> Amazon Movies</a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="container">
+        <div id ="Back To The Future">
+          <img src="BackToTheFuture.jpg">
+          <h1>Back To The Future</h1>
+          <h2>Director: Roberth Zemeckis</h2>
+          <h2> Release Date: July 3rd, 1985</h2>
+          <h2>Staring: Michael J. Fox, Christopher Lloyd</h2>
+          <p>
+          Back to the Future manages to make a thrilling sci-fi movie that is also
+          sleek and cool with a lot of good laughs throughout.  Marty McFly, played
+          by the charismatic stud Michael J. Fox. Match him with the crazy scientist
+          who's life goal was acheiving time travel played by  the eccentric
+          Christopher Lloyd. The two play off each well mixed with a romp through time
+          with goofs and gafs along the way and we have a timeless (lol) comedy.
+          </p>
+          <div class="ToWatch">
+            <p> Found on: <a href="http://play.hbogo.com/series?reentered=true">HBO</a>
+                <a href="http://www.sho.com/">Showtime</a>
+                <a href="https://www.amazon.com/Amazon-Video/b?node=2858778011"> Amazon Movies</a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="LastContainer">
+        <div id ="StarWars">
+          <img src="starwarsempirestrikesback.jpg">
+          <h1>Star Wars: Empire Strikes Back</h1>
+          <h2>Director: Irvin Kershner</h2>
+          <h2> Release Date: June 20th, 1980</h2>
+          <h2>Staring: Mark Hamill, Harrison Ford, Carrie Fisher</h2>
+          <p> Star Wars: Empire Strikes Back is a matserpeice in multiple
+              ways. For one, it does a great job of world building. Even with the tremendous
+              amount of different planets and life-forms in the Universe of
+              Star Wars, each one feels appropriate and believable within the world.
+              Another stand out aspect of the movie are the characters. From the
+              always lovable, yet sassy droids, to Han Solo and Chewbacca's smuggler
+              duo just trying to get by, to Luke wanting to learn the ways of the Jedi while
+              being conflicted by the fact that his friends lives are in danger. All these aspects
+              come together to make the movie as a whole even better than the sum of its
+              masterfully created and well though out parts.
+              </p>
+          <div class="ToWatch">
+            <p> Found on: <a href="http://play.hbogo.com/series?reentered=true">HBO</a>
+                <a href="http://www.sho.com/">Showtime</a>
+                <a href="https://www.amazon.com/Amazon-Video/b?node=2858778011"> Amazon Movies</a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+    <footer>
+      <div class="container">
+        <p>Designed by Tareq Alwafai, May 2017</p>
+      </div>
+    </footer>
+
+  </body>
+</html>
